@@ -10,6 +10,7 @@ public class Exercice1_2 {
 		for(int i = n;i>=1;i--) {
 			System.out.println(i);
 		}
+		//comment 
 	}
 	public static void main(String [] args) {
 		afficherInverse(5);
