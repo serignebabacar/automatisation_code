@@ -1,6 +1,6 @@
 package dowhilewhilefor;
 
-public class Exercice9 {
+public class Exercice9_12 {
 
 	public static void produitFActeurs(int n) {
 		int tab[] = new int[n / 2];
