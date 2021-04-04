@@ -13,7 +13,7 @@ public class Exercice24 {
 	}
 
 	public static void changePosition(int tab[]) {
-		for (int j = 0; j < tab.length - 1; j++) {
+		for (int j = 0; j < 4; j++) {
 			for (int i = 0; i < tab.length - 1; i++) {
 				int c = tab[i];
 				tab[i] = tab[i + 1];
